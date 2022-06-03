@@ -5,7 +5,6 @@ Stuttgart, 03.06.2022
 
 <hr style="border:2px solid gray">
 
-
 ![](Pictures/1_C_Trapezoidal_cchannel.png)
 
 
